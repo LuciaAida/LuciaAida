@@ -23,8 +23,9 @@
 
 📩luperezaida@gmail.com
 
-## Gracias, por visitar mi perfil
+## 
+**¡Gracias por visitar mi perfil!** 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuciaAida&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
-
 ⌛ Me esfuerzo por mantener una práctica diaria, aunque sean pequeños avances.
+
