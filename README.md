@@ -28,5 +28,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuciaAida&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
 
-⌛ Me esfuerzo por mantener una práctica diaria, aunque sean pequeños avances.
+⌛ Me esfuerzo por mantener una práctica constante, aunque sean pequeños avances.
 
